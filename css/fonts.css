@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Rubik-R';
+    src: url(../fonts/Rubik-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik-B';
+    src: url(../fonts/Rubik-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik-L';
+    src: url(../fonts/Rubik-Light.ttf) format('truetype');
+}
